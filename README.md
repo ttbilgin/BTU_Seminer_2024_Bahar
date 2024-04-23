@@ -1,1 +1,1 @@
-# BTU_Seminer_2024_Bahar
+# 2024 Seminer Dersi Vize Sınavına kadar gerçekleştirilen sunumlar
